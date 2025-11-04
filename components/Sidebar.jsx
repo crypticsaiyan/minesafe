@@ -59,14 +59,14 @@ export default function AppSidebar({ updates = [], suggestions = [] }) {
                         </Link>
                     </SidebarMenuItem>
 
-                    <SidebarMenuItem>
+                    {/* <SidebarMenuItem>
                         <Link href="/hazards" className="w-full">
                             <SidebarMenuButton className="w-full hover:bg-blue-100">
                                 <AlertTriangle className="h-5 w-5" />
                                 <span>Hazard Detection</span>
                             </SidebarMenuButton>
                         </Link>
-                    </SidebarMenuItem>
+                    </SidebarMenuItem> */}
 
                     <SidebarMenuItem>
                         <Link href="/audit" className="w-full">
@@ -95,7 +95,7 @@ export default function AppSidebar({ updates = [], suggestions = [] }) {
                         </Link>
                     </SidebarMenuItem>
                 </SidebarGroup>
-
+{/* 
                 <SidebarGroup>
                     <Collapsible open={updatesOpen} onOpenChange={setUpdatesOpen}>
                         <SidebarMenuItem>
@@ -154,7 +154,7 @@ export default function AppSidebar({ updates = [], suggestions = [] }) {
                             </CollapsibleContent>
                         </SidebarMenuItem>
                     </Collapsible>
-                </SidebarGroup>
+                </SidebarGroup> */}
             </SidebarContent>
         </Sidebar>
     );
