@@ -56,17 +56,6 @@ export function AudioRecorderButton({
 
       console.log(`Audio blob size: ${audioBlob.size} bytes`);
       
-      // Save audio locally for debugging
-      const audioUrl = URL.createObjectURL(audioBlob);
-      const a = document.createElement('a');
-      a.href = audioUrl;
-      a.download = `recording-${Date.now()}.webm`;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(audioUrl);
-      console.log("Audio saved to downloads");
-
       setIsTranslating(true);
 
       try {
