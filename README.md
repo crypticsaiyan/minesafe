@@ -75,11 +75,10 @@ Our solution automates the monitoring, analysis, and dissemination of critical m
 | ------------------------------- | ----------------------------- |
 | **Automation & Data Ingestion** | n8n                           |
 | **Backend**                     | FastAPI / Node.js             |
-| **AI & NLP**                    | Gemini / OpenAI Models        |
-| **Dashboard**                   | Next.js + Chart.js / Recharts |
-| **Database**                    | PostgreSQL / Supabase         |
-| **Voice Processing**            | Google Speech-to-Text (Hindi) |
-| **Deployment**                  | Docker + Render / Railway     |
+| **AI & NLP**                    | RAG + Gemini API              |
+| **Dashboard**                   | Next.js                       |
+| **Database**                    | Supabase / Neon (Vector DB)   |
+| **Voice Processing**            | openai-whisper                |
 
 ---
 
