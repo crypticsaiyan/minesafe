@@ -1,13 +1,26 @@
 'use client'
 
 import { useState } from 'react';
-import { ChevronDown, Bell, Lightbulb, Clock, User } from 'lucide-react';
+import { 
+    ChevronDown, 
+    Bell, 
+    Lightbulb, 
+    Clock, 
+    User,
+    LayoutDashboard,
+    MessageSquare,
+    FileText,
+    AlertTriangle,
+    Shield,
+    Upload
+} from 'lucide-react';
 import {
     Sidebar,
     SidebarContent,
     SidebarGroup,
     SidebarMenuItem,
     SidebarMenuButton,
+    SidebarGroupLabel,
 } from '@/components/ui/sidebar';
 import {
     Collapsible,
@@ -15,6 +28,7 @@ import {
     CollapsibleTrigger,
 } from '@/components/ui/collapsible';
 import BulletinCard from '../components/BulletinCard';
+import Link from 'next/link';
 
 export default function AppSidebar({ updates = [], suggestions = [] }) {
     const [updatesOpen, setUpdatesOpen] = useState(false);
@@ -23,6 +37,65 @@ export default function AppSidebar({ updates = [], suggestions = [] }) {
     return (
         <Sidebar>
             <SidebarContent className="overflow-y-auto">
+                {/* Navigation Links */}
+                <SidebarGroup>
+                    <SidebarGroupLabel>MineSafe Platform</SidebarGroupLabel>
+                    
+                    <SidebarMenuItem>
+                        <Link href="/dashboard" className="w-full">
+                            <SidebarMenuButton className="w-full hover:bg-blue-100">
+                                <LayoutDashboard className="h-5 w-5" />
+                                <span>Dashboard</span>
+                            </SidebarMenuButton>
+                        </Link>
+                    </SidebarMenuItem>
+
+                    <SidebarMenuItem>
+                        <Link href="/chat" className="w-full">
+                            <SidebarMenuButton className="w-full hover:bg-blue-100">
+                                <MessageSquare className="h-5 w-5" />
+                                <span>Safety Officer AI</span>
+                            </SidebarMenuButton>
+                        </Link>
+                    </SidebarMenuItem>
+
+                    <SidebarMenuItem>
+                        <Link href="/hazards" className="w-full">
+                            <SidebarMenuButton className="w-full hover:bg-blue-100">
+                                <AlertTriangle className="h-5 w-5" />
+                                <span>Hazard Detection</span>
+                            </SidebarMenuButton>
+                        </Link>
+                    </SidebarMenuItem>
+
+                    <SidebarMenuItem>
+                        <Link href="/audit" className="w-full">
+                            <SidebarMenuButton className="w-full hover:bg-blue-100">
+                                <FileText className="h-5 w-5" />
+                                <span>Safety Audits</span>
+                            </SidebarMenuButton>
+                        </Link>
+                    </SidebarMenuItem>
+
+                    <SidebarMenuItem>
+                        <Link href="/alerts" className="w-full">
+                            <SidebarMenuButton className="w-full hover:bg-blue-100">
+                                <Shield className="h-5 w-5" />
+                                <span>Alerts & Monitoring</span>
+                            </SidebarMenuButton>
+                        </Link>
+                    </SidebarMenuItem>
+
+                    <SidebarMenuItem>
+                        <Link href="/upload" className="w-full">
+                            <SidebarMenuButton className="w-full hover:bg-blue-100">
+                                <Upload className="h-5 w-5" />
+                                <span>Upload Documents</span>
+                            </SidebarMenuButton>
+                        </Link>
+                    </SidebarMenuItem>
+                </SidebarGroup>
+
                 <SidebarGroup>
                     <Collapsible open={updatesOpen} onOpenChange={setUpdatesOpen}>
                         <SidebarMenuItem>
