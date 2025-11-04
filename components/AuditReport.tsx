@@ -1,73 +1,38 @@
-"use client";
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import Link from "next/link";
+export default function AuditReport({ reports, page }: { reports: any[], page: number }) {
+  if (reports.length === 0) {
+    return <p>No audit reports found.</p>;
+  }
 
-interface Props {
-    reports: any[];
-    page: number;
-}
+  return (
+    <div className="space-y-6">
+      {reports.map(report => (
+        <div
+          key={report.id}
+          className="border rounded-lg p-4 bg-white shadow-sm"
+        >
+          <h2 className="text-lg font-semibold mb-2">{report.title || 'Untitled Report'}</h2>
+          <p className="text-sm text-gray-600 mb-2">Generated at: {new Date(report.generated_at).toLocaleString()}</p>
 
-const riskColors: Record<string, string> = {
-    low: "bg-green-100 text-green-700",
-    medium: "bg-yellow-100 text-yellow-700",
-    high: "bg-red-100 text-red-700",
-};
+          {report.summary_points?.length > 0 && (
+            <ul className="list-disc ml-6 text-gray-800">
+              {report.summary_points.map((point: string, i: number) => (
+                <li key={i}>{point}</li>
+              ))}
+            </ul>
+          )}
 
-export default function AuditReport({ reports, page }: Props) {
-    return (
-        <div className="space-y-6">
-            <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-                {reports.map((r) => (
-                    <Card key={r.id} className="hover:shadow-lg transition-all">
-                        <CardHeader>
-                            <CardTitle className="text-lg font-semibold">
-                                {r.period} Report
-                            </CardTitle>
-                            <p className="text-xs text-gray-500">
-                                Generated {new Date(r.generatedAt).toLocaleDateString()}
-                            </p>
-                        </CardHeader>
-
-                        <CardContent className="space-y-2">
-                            <div className="text-sm">
-                                <strong>Total Accidents:</strong> {r.total_accidents}
-                            </div>
-                            <div className="text-sm">
-                                <strong>Critical Violations:</strong> {r.critical_violations}
-                            </div>
-                            <div className="text-sm">
-                                <strong>Compliance Score:</strong> {r.compliance_score}%
-                            </div>
-
-                            {/* ✅ Risk Level */}
-                            <div className="mt-2">
-                                <Badge className={riskColors[r.risk_level]}>
-                                    {r.risk_level.toUpperCase()}
-                                </Badge>
-                            </div>
-
-                            <Link
-                                href={`/audit-reports/${r.id}`}
-                                className="text-blue-600 text-sm underline mt-3 block"
-                            >
-                                View Full Report →
-                            </Link>
-                        </CardContent>
-                    </Card>
-                ))}
-            </div>
-
-            {/* ✅ Pagination */}
-            <div className="flex justify-between pt-4">
-                <Link href={`?page=${page - 1}`} className="text-sm opacity-70 disabled:pointer-events-none"
-                    aria-disabled={page === 1}>
-                    ← Previous
-                </Link>
-                <Link href={`?page=${page + 1}`} className="text-sm opacity-70">
-                    Next →
-                </Link>
-            </div>
+          {report.pdf_url && (
+            <a
+              href={report.pdf_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 inline-block text-blue-600 hover:underline"
+            >
+              View PDF
+            </a>
+          )}
         </div>
-    );
+      ))}
+    </div>
+  );
 }
