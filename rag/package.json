@@ -1,0 +1,15 @@
+{
+	"name": "neon-embedding-uploader",
+	"version": "1.0.0",
+	"description": "Script to upload embeddings to Neon DB",
+	"main": "upload_to_neon.js",
+	"type": "module",
+	"scripts": {
+		"start": "node upload_to_neon.js"
+	},
+	"dependencies": {
+		"@google/generative-ai": "^0.15.0",
+		"pg": "^8.12.0",
+		"pgvector": "^0.2.0"
+	}
+}

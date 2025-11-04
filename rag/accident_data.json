@@ -1,0 +1,2053 @@
+{
+	"fatal_accidents_2015": [
+		{
+			"accident_number": 1,
+			"cause_code": "0111",
+			"cause_category": "Ground Movement",
+			"cause_specific": "Fall of Roof",
+			"date": "16/05/15",
+			"time": "20.15",
+			"mine_name": "KHETRI COPPER MINE",
+			"owner": "HINDUSTAN COPPER LTD.",
+			"location": {
+				"district": "Jhunjhunu",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Vijendra Singh",
+					"role": "Driller",
+					"sex": "Male",
+					"age": 32
+				}
+			],
+			"description": "While two drillers were connecting compressed air hose-pipe to jack hammer drill machine at a distance of 3.5m from the development face in an underground Metalliferous Mine, a mass of stone measuring about 0m(length)x0.5m(width)x0.35m (thick) fell from the unsupported roof from a height of about 4.0m on one of the drillers inflicting serious bodily injuries to him to which he succumbed after about seven hours.",
+			"avertable_factors": "Had the workings within 9.0m of the face been kept secured by rock bolts in accordance with the requirements of the Systematic Timbering Rules... as required by Regulation 112 (2) (C) of the Metalliferous Mines Regulations, 1961, this accident could have been averted."
+		},
+		{
+			"accident_number": 2,
+			"cause_code": "0111",
+			"cause_category": "Ground Movement",
+			"cause_specific": "Fall of Roof",
+			"date": "28/11/15",
+			"time": "3.30",
+			"mine_name": "KAYAD UNDERGROUND MINE",
+			"owner": "HINDUSTAN ZINC LTD.",
+			"location": {
+				"district": "Ajmer",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Nana Lal Mali",
+					"role": "Gen worker",
+					"sex": "Male",
+					"age": 24
+				}
+			],
+			"description": "While a crew of four General Mazdoors standing on a scissor lift was charging ring holes in hanging wall drive of a stope, a mass of rock separated from the roof of the drive... broke into two pieces... and fell down over the platform of scissor lift... inflicting serious bodily injury to one of them to which he succumbed on way to hospital.",
+			"avertable_factors": "Had the roof been properly examined to ascertain the condition thereof... as required by Regulation 116 (3) (b) read with Regulation 47 (2) (a) of the Metalliferous Mines Regulations, 1961, this accident could have been averted."
+		},
+		{
+			"accident_number": 3,
+			"cause_code": "0112",
+			"cause_category": "Ground Movement",
+			"cause_specific": "Fall of Sides (Other than Overhangs)",
+			"date": "14/01/15",
+			"time": "16.30",
+			"mine_name": "CHIKLA MANGANESE MINE",
+			"owner": "MANGANESE ORE [INDIA] LTD.",
+			"location": {
+				"district": "Bhandara",
+				"state": "Maharashtra"
+			},
+			"victims": [
+				{
+					"name": "Saras Hariram",
+					"role": "Piece Rated Worker",
+					"sex": "Male",
+					"age": 43
+				}
+			],
+			"description": "While blasted muck was being removed manually in a stope of underground manganese mine, suddenly rock mass... parted from the hanging wall side... and fell over a face worker, inflicting serious bodily injuries to him to which he succumbed while being transported to the hospital.",
+			"avertable_factors": "Had the hangwall side of the stope been made and kept secured as required under Regulation 112 of the Metalliferous Mines Regulations 1961 and the stope been stowed with sand as prescribed, this accident could have been averted."
+		},
+		{
+			"accident_number": 4,
+			"cause_code": "0112",
+			"cause_category": "Ground Movement",
+			"cause_specific": "Fall of Sides (Other than Overhangs)",
+			"date": "22/02/15",
+			"time": "9.00",
+			"mine_name": "MASARO KI OBERI SERPENTINE MINE",
+			"owner": "M/S NARAYAN MARBLE",
+			"location": {
+				"district": "Udaipur",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Govind Meena",
+					"role": "Worker",
+					"sex": "Male",
+					"age": 30
+				},
+				{
+					"name": "Prakash",
+					"role": "Worker",
+					"sex": "Male",
+					"age": 27
+				}
+			],
+			"description": "While two workers were working at the tow of 6m high side of a second bench in an opencast marble mine, all of a sudden a block of marble... fell from a height of about 4.5m... and the workers were buried under the marble piece... inflicting fatal injury to both the workers.",
+			"avertable_factors": "Had, it been ensured that sides are adequately benched, sloped and secured so as to prevent danger from fall of sides as required under the provisions of Regulation 106 (3) of the Metalliferous Mines Regulations, 1961, this accident could have been averted."
+		},
+		{
+			"accident_number": 5,
+			"cause_code": "0112",
+			"cause_category": "Ground Movement",
+			"cause_specific": "Fall of Sides (Other than Overhangs)",
+			"date": "11/08/15",
+			"time": "8.00",
+			"mine_name": "BILLI MARKUNDI STONE MINE (5390, 91, 94-96)",
+			"owner": "M/S DEEPALI SEWA SAMITI",
+			"location": {
+				"district": "Sonebhadra",
+				"state": "Uttar Pradesh"
+			},
+			"victims": [
+				{
+					"name": "Hari Lal Baiga",
+					"role": "Labour",
+					"sex": "Male",
+					"age": 30
+				}
+			],
+			"description": "While a contractual worker was standing near the high-wall of a stone quarry, loose boulders embedded and hanging on the high-wall fell from a height of 22.5m on him inflicting serious bodily injuries, to which he succumbed while on way to the hospital.",
+			"avertable_factors": "Had the sides of opencast workings been benched and kept sloped, secured and dressed of all loose stones/boulders, as to prevent fall of sides as required by the provisions of Regulation 106 of the Metalliferous Mines Regulations, 1961, this accident could have been averted."
+		},
+		{
+			"accident_number": 6,
+			"cause_code": "0112",
+			"cause_category": "Ground Movement",
+			"cause_specific": "Fall of Sides (Other than Overhangs)",
+			"date": "21/10/15",
+			"time": "13.30",
+			"mine_name": "ARASU I MAGNESITE MINE",
+			"owner": "TAMIL NADU MAGNESITE LTD.",
+			"location": {
+				"district": "Salem",
+				"state": "Tamilnadu"
+			},
+			"victims": [
+				{
+					"name": "G. Venkatachalam",
+					"role": "Face Worker",
+					"sex": "Male",
+					"age": 62
+				}
+			],
+			"description": "While two workers was engaged for picking magnesite from runoff mine against side of a bench in an opencast mine, side of the bench slided, partially buried one worker and one boulder... fell and hit him inflicting serious bodily injuries which turned fatal after nine days.",
+			"avertable_factors": "Had i) the sides of the bench been dressed properly... as required under Regulation 106 (3) of the Metalliferous Mines Regulations 1961 and ii) effective supervision been provided as required under Regulation 116 (3) (b), 46 (1) (a) & 45 (1) & (3) of the Metalliferous Mines Regulations 1961, this accident could have been averted."
+		},
+		{
+			"accident_number": 7,
+			"cause_code": "0112",
+			"cause_category": "Ground Movement",
+			"cause_specific": "Fall of Sides (Other than Overhangs)",
+			"date": "08/11/15",
+			"time": "10.00",
+			"mine_name": "TANTRA-RAIKELA & BANDHAL IRON MINE",
+			"owner": "JINDAL STRIPS LTD.",
+			"location": {
+				"district": "Sundergarh",
+				"state": "Orissa"
+			},
+			"victims": [
+				{
+					"name": "Seru Mandal",
+					"role": "HEMM operator",
+					"sex": "Male",
+					"age": 35
+				}
+			],
+			"description": "While an operator was marching an excavator on a bench of an open cast mine the sides of the bench... slided and the excavator fell on the lower bench from a height of about 9m... and the operator with cabin was buried in it who was rescued after 15 min and died on the way to Hospital.",
+			"avertable_factors": "Had the sides of the bench been secured so as to prevent danger of fall of sides, as required under Reg 106 (3) of the MMR 1961, This accident could have been averted."
+		},
+		{
+			"accident_number": 8,
+			"cause_code": "0228",
+			"cause_category": "Transportation Machinery (Winding)",
+			"cause_specific": "Overwinding of Cages/Skip (downgoing)",
+			"date": "12/09/15",
+			"time": "13.50",
+			"mine_name": "MOCHIA LEAD AND ZINK MINE",
+			"owner": "HINDUSTAN ZINC LTD.",
+			"location": {
+				"district": "Udaipur",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Prem Singh Mal",
+					"role": "Bellman",
+					"sex": "Male",
+					"age": 49
+				}
+			],
+			"description": "While the man winding cage was signaled for lowering it... the roof of the cage got stuck up with the lift bridge, as the lift bridges were forgotten to be lifted up... and the cage on getting released, travelled at high speed... the bellman inside the cage, received serious bodily injuries to which he succumbed instantly.",
+			"avertable_factors": "Had i) it been ensured that the lifting bridge was lifted... ii) it been ensured that the winding engine would stop immediately on loosening of the winding ropes... iii) the gap between the cage and the landing level... been maintained not more than 50mm... iv) there been a system working to interlock the operation of the winding engine with the lifting of lift bridge... v) there been a system working, to ensure that the winding engine would stop if there was any uneven slackness of winding ropes... and vi) there been a system working, to ensure that the winding engine would stop of the tail rope loop was getting shortened... this accident could have been averted."
+		},
+		{
+			"accident_number": 9,
+			"cause_code": "0229",
+			"cause_category": "Transportation Machinery (Winding)",
+			"cause_specific": "Other Accident due to Winding Operation",
+			"date": "30/09/15",
+			"time": "3.45",
+			"mine_name": "HUTTI GOLD MINE",
+			"owner": "HUTTI GOLD MINES CO. LTD.",
+			"location": {
+				"district": "Raichur",
+				"state": "Karnataka"
+			},
+			"victims": [
+				{
+					"name": "Sangappa",
+					"role": "Mazdoor cum signalman",
+					"sex": "Male",
+					"age": 49
+				}
+			],
+			"description": "While a hoisting mazdoor cum signalman was cleaning accumulated muck over a changeover door/flap... skip containing ore was unloaded into unloading pocket, carrying the mazdoor along with ore into waste rock storage bin resulting serious bodily injuries which proved fatal after about one and half hours.",
+			"avertable_factors": "Had i) the banksman who was aware about the work... not given signal to unload skip: ii) a system/mechanism been put in place to ensure that power supply in winder disconnected before persons were allowed to work... iii) a system of changeover door/flap by cleaning by proper tools from landing platform been implemented... as required under Regulation 44 (3) (a), Regulation 45 (1), Regulation 53 (a) & (d), Regulation 55 and Regulation181 of the Metalliferous Mines Regulations, 1961... this accident could have been averted."
+		},
+		{
+			"accident_number": 10,
+			"cause_code": "0334",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Conveyors",
+			"date": "14/07/15",
+			"time": "23.20",
+			"mine_name": "BARSUA IRON ORE MINE",
+			"owner": "RAW MATERIAL DIVISION (SAIL)",
+			"location": {
+				"district": "Sundergarh",
+				"state": "Orissa"
+			},
+			"victims": [
+				{
+					"name": "Kaushal Kandulna",
+					"role": "Contrct. Worker",
+					"sex": "Male",
+					"age": 41
+				}
+			],
+			"description": "While a contractor worker was taking measurement of discharge end take up pulley of a conveyor belt by standing on it... the belt was operated, trapping him between conveyor belt and talk up pulley receiving serious bodily injuries to which he succumbed instantaneously.",
+			"avertable_factors": "Had the person not been allowed to take measurement of pulley of a conveyor belt while in motion without following Clause 3 of Standard Maintenance Practice... thus negligently omitting to ensure the safety of persons in contravention of Regulation 174 (3) read with Regulation 181 and 53 (a) of Metalliferous Mines Regulation 1961."
+		},
+		{
+			"accident_number": 11,
+			"cause_code": "0335",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Dumpers",
+			"date": "05/01/15",
+			"time": "16.45",
+			"mine_name": "CHECHAT LIMESTONE MINE",
+			"owner": "M/S DILIP KUMAR MOTILAL JAIN",
+			"location": {
+				"district": "Kota",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Jugraj",
+					"role": "Helper",
+					"sex": "Male",
+					"age": 25
+				}
+			],
+			"description": "While a tipper was edge-dumping/tipping overburden material... the tipper rolled over the unstable edge to fall 20m below. Whereas the tipper operator jumped out... a helper sitting on the other side received serious bodily injuries to which he succumbed... after about an hour.",
+			"avertable_factors": "Had a protective berm not less than half the diameter of the tippers... been made and kept maintained inbye of the unstable tipping-edge... as required by clause 14.0 of Directorate's letter... granting relaxations from the provisions of Regulation 106 (2) (b) of the Metalliferous Mines Regulations, 1961... this accident could have been averted."
+		},
+		{
+			"accident_number": 12,
+			"cause_code": "0335",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Dumpers",
+			"date": "07/01/15",
+			"time": "8.30",
+			"mine_name": "JHANJHAR MARBLE MINE",
+			"owner": "SHRI MOHIT MAHESHWARI",
+			"location": {
+				"district": "Rajsamand",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Lahrilal",
+					"role": "Mazdoor",
+					"sex": "Male",
+					"age": 22
+				}
+			],
+			"description": "While a dumper was being reversed on a haul road in a marble mine, a mazdoor, who was present at the rear side, was hit by the rear of the dumper sustaining serous bodily injuries to which he later succumbed in the hospital.",
+			"avertable_factors": "Had i) the dumper not been reversed without ensuring that no person was present in the rear side... and ii) the mine not been worked appointing a duly qualified manager... this accident could have been averted."
+		},
+		{
+			"accident_number": 13,
+			"cause_code": "0335",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Dumpers",
+			"date": "12/02/15",
+			"time": "18.45",
+			"mine_name": "SUBBRAYANAHALLI IRON ORE MINE",
+			"owner": "MYSORE MINERALS LTD.",
+			"location": {
+				"district": "Bellary",
+				"state": "Karnataka"
+			},
+			"victims": [
+				{
+					"name": "Veeresh",
+					"role": "Tipper Driver",
+					"sex": "Male",
+					"age": 23
+				}
+			],
+			"description": "While a tipper driver... was driving a tipper on a downhill haul road... having air leakage in brake hose, the driver lost his control over the tipper due to failure of brake and the tipper fell down to lower haul road at a depth of 15m... inflicting fatal injuries to the driver.",
+			"avertable_factors": "Had i) Ensured that the competent persons carried out their respective duties in a proper manner... and, ii) Ensured that every tipper plying in the mine was mechanically sound and in efficient working order... this accident could have been averted."
+		},
+		{
+			"accident_number": 14,
+			"cause_code": "0335",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Dumpers",
+			"date": "29/09/15",
+			"time": "9.35",
+			"mine_name": "VEERBHADRA GRANITE MINE",
+			"owner": "M/S VEERBHADRA MINERALS PVT. LTD.",
+			"location": {
+				"district": "Prakasham",
+				"state": "Andhra Pradesh"
+			},
+			"victims": [
+				{
+					"name": "N. V. Subbaiah",
+					"role": "Dumper Optr.",
+					"sex": "Male",
+					"age": 55
+				}
+			],
+			"description": "While a dumper was driven up a steep haul road at a gradient of 1 in 7... slowed to give pass to a light vehicle, the dumper failed to accelerate further, got uncontrolled and started rolling back, in the meanwhile the operator jumped off the cabin and received serious injuries to which he succumbed...",
+			"avertable_factors": "Had i) the gradient of the main haul road at the mine been maintained as required... ii) the dumper been effectively provided and maintained with safety features... this accident could have been averted."
+		},
+		{
+			"accident_number": 15,
+			"cause_code": "0335",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Dumpers",
+			"date": "15/10/15",
+			"time": "16.30",
+			"mine_name": "Red Hills Magnesite Mine",
+			"owner": "M/S SAIL REFRACTORY CO. LTD.",
+			"location": {
+				"district": "Salem",
+				"state": "Tamilnadu"
+			},
+			"victims": [
+				{
+					"name": "P. Soundararajan",
+					"role": "Mining Mate",
+					"sex": "Male",
+					"age": 46
+				}
+			],
+			"description": "While a tipper loaded with magnesite was overtaking two persons moving on a motorcycle... the tipper hit the motorcycle due to which the rider... fell down below the rear wheel of the tipper inflicting fatal injuries...",
+			"avertable_factors": "Had the driver of the tipper overtaken the motorcycle safely and not driven the tipper negligently... as provided under Regulation 181 of Metalliferous Mines Regulations, 1961, this accident could have been averted."
+		},
+		{
+			"accident_number": 16,
+			"cause_code": "0335",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Dumpers",
+			"date": "17/10/15",
+			"time": "23.00",
+			"mine_name": "CHECHAT LIMESTONE MINE (M. L. NO. 95/2008)",
+			"owner": "JAIDEEP SINGH ANAND",
+			"location": {
+				"district": "Kota",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Sunder",
+					"role": "Drill helper",
+					"sex": "Male",
+					"age": 30
+				}
+			],
+			"description": "While an empty tipper was returning from waste dump yard, it hit a drill-helper on surface haul road inflicting serious bodily injuries to him, to which he succumbed whilst on way to hospital.",
+			"avertable_factors": "Had i) Adequate general lightening... been provided... ii) The operator's cabin of the tipper provided with a wind screen and the tipper been kept maintained in good and safe working condition... and, iii) an engineer... been appointed at the mine to hold general charge of machinery... this accident could have been averted."
+		},
+		{
+			"accident_number": 17,
+			"cause_code": "0335",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Dumpers",
+			"date": "19/10/15",
+			"time": "12.45",
+			"mine_name": "KARANKOTE LIMESTONE MINE",
+			"owner": "CEMENT CORPN. OF INDIA LTD.",
+			"location": {
+				"district": "Ranga Reddy",
+				"state": "Andhra Pradesh"
+			},
+			"victims": [
+				{
+					"name": "Anil M. Hanumante",
+					"role": "Tipper Operator",
+					"sex": "Male",
+					"age": 36
+				}
+			],
+			"description": "While operator was driving a tipper on a Haul Road... the operator lost control and caused the tipper to topple on to a lower bench as a result, the operator received fatal injuries.",
+			"avertable_factors": "Had it been driven at a controlled speed, defensively, avoiding distractions thus not negligently omitting to ensure his own safety as required under provisions of Regulation 181 of the Metalliferous Mines Regulations, 1961, this accident could have been averted."
+		},
+		{
+			"accident_number": 18,
+			"cause_code": "0335",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Dumpers",
+			"date": "14/12/15",
+			"time": "22.30",
+			"mine_name": "RAMPURA AGUCHA LEAD & ZINC OPEN CAST MIN",
+			"owner": "HINDUSTAN ZINC LTD.",
+			"location": {
+				"district": "Bhilwara",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Bhupendra Paliwal",
+					"role": "Dumper Optr.",
+					"sex": "Male",
+					"age": 51
+				}
+			],
+			"description": "While a dumper operator, after parking his dumper... was moving across the parking yard towards exit, a 220T Komatsu 830 E make dumper being driven out of the parking yard ran over him, inflicting instant fatal injury.",
+			"avertable_factors": "Had i) the dumper been driven defensively (paying due caution to the warnings given by proximity warning device)... and ii) none ventured in close proximity of the moving dumper... as called for by the provisions of Regulations 181 of the Metalliferous Mines Regulations, 1961, this accident could have been averted."
+		},
+		{
+			"accident_number": 19,
+			"cause_code": "0336",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Wagon Movements",
+			"date": "13/05/15",
+			"time": "12.00",
+			"mine_name": "DALLI MECHANISED IRON ORE MINE",
+			"owner": "M/S BHILAI STEEL PLANT",
+			"location": {
+				"district": "Balod",
+				"state": "Chhattisgarh"
+			},
+			"victims": [
+				{
+					"name": "Ramnath",
+					"role": "Contract Employee",
+					"sex": "Male",
+					"age": 34
+				}
+			],
+			"description": "While a contractor employee deployed as points man was standing on a ladder of leading moving railway wagon... being pushed by a locomotive... lost his balance, fell down and run over by the wagon resulting into fatality.",
+			"avertable_factors": "Had i) the person not stood on a ladder of leading moving wagon... and accompained it by walking along the track line... thereby not negligently endangering his own life... ii) the movement of wagons been carried out under the supervision of competent persons and prevented the points man from riding on a moving wagon... this accident could have been averted."
+		},
+		{
+			"accident_number": 20,
+			"cause_code": "0339",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Wheeled Trackless (Truck, Tanker, etc.)",
+			"date": "30/01/15",
+			"time": "11.00",
+			"mine_name": "KABIR CHAWDA PANCHPERA PAHAR SANDSTONE 8",
+			"owner": "SHRI KABIR CHAWDA",
+			"location": {
+				"district": "Nagaur",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Ajharuddin",
+					"role": "Mazdoor",
+					"sex": "Male",
+					"age": 21
+				}
+			],
+			"description": "While a mazdoor was engaged in fixing wedges in blocks of sandstone loaded in a truck... the truck was suddenly started and moved down a ramp... causing one of the blocks... to shift and hit the mazdoor to press him against side of hopper of the truck... to which he succumbed on way to a hospital.",
+			"avertable_factors": "Had i) the truck not been negligently driven... ii) a competent person been appointed to secure thorough supervision... and iii) a duly qualified Manager in the mine been appointed... as required under the provisions of Regulation 181, 39 (1) (a) and 34 (1) (a) of the Metalliferous Mines Regulations, 1961... this accident could have been averted."
+		},
+		{
+			"accident_number": 21,
+			"cause_code": "0339",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Wheeled Trackless (Truck, Tanker, etc.)",
+			"date": "26/02/15",
+			"time": "14.15",
+			"mine_name": "SETHURAYANPUDUR LIMESTONE MINE",
+			"owner": "K. KRISHNAMOORTHY",
+			"location": {
+				"district": "Tirunelveli",
+				"state": "Tamil nadu"
+			},
+			"victims": [
+				{
+					"name": "A. Thangapandy",
+					"role": "Driller",
+					"sex": "Male",
+					"age": 55
+				}
+			],
+			"description": "While a driller helper-cum-compressor operator was driving the tractor mounted compressor (TMC) on a haul road... he lost control over it and the tractor toppled down, as result he was stuck beneath the tractor... to which he succumbed on the way to hospital.",
+			"avertable_factors": "Had, a duly qualified manager been appointed for overall management, supervision, direction and control of the mine, as required under Regulation 34 of the Metalliferous Mines Regulations, 1961... this accident could have been averted."
+		},
+		{
+			"accident_number": 22,
+			"cause_code": "0339",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Wheeled Trackless (Truck, Tanker, etc.)",
+			"date": "02/05/15",
+			"time": "17.30",
+			"mine_name": "MORWAD MARBLE MINE",
+			"owner": "R. K. MARBLE PVT. LTD.",
+			"location": {
+				"district": "Rajsamand",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Shankar Meena",
+					"role": "Worker",
+					"sex": "Male",
+					"age": 21
+				}
+			],
+			"description": "While a worker was engaged in loading the long hole drill rods in a pick and carry crane van, suddenly the jack of the stabliser was retracted by a crane operator helper from the opposite side... inflicting serious injuries to the worker, who succumbed to his injuries on way to the hospital.",
+			"avertable_factors": "Had the control lever of the jack of the stabliser not been operated form the side opposite to the side from which loading was being done... thereby negligently endangering the live of a co-worker, as required under Regulation 181 of Metalliferous Mines Regulations, 1961, this accident could have been averted."
+		},
+		{
+			"accident_number": 23,
+			"cause_code": "0339",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Wheeled Trackless (Truck, Tanker, etc.)",
+			"date": "11/06/15",
+			"time": "21.15",
+			"mine_name": "MEGHATUBURU IRON ORE MINE",
+			"owner": "RAW MATERIAL DIVISION (SAIL)",
+			"location": {
+				"district": "West Singbhum",
+				"state": "Jharkhand"
+			},
+			"victims": [
+				{
+					"name": "Dipnarayan Mahato",
+					"role": "Sampler",
+					"sex": "Male",
+					"age": 56
+				}
+			],
+			"description": "While a person was walking on a pucca road in the plant area... he was hit by a reversing light vehicle inflicting serious bodily injuries resulting into death during treatment at hospital after about 15 hours",
+			"avertable_factors": "Had i) the light vehicle not been reversed carelessly... in contravention of the provision of the Reg 181 of the MMR 1961. ii) the light vehicle been provided with Audio visual reversal alarm and a separate parking place... in contravention of the Reg 181 of the The MMR 1961. this accident could have been averted."
+		},
+		{
+			"accident_number": 24,
+			"cause_code": "0339",
+			"cause_category": "Transportation Machinery (Non-Winding)",
+			"cause_specific": "Wheeled Trackless (Truck, Tanker, etc.)",
+			"date": "12/09/15",
+			"time": "1.30",
+			"mine_name": "MORWAD MARBLE MINE",
+			"owner": "M/S SONI MARBLE",
+			"location": {
+				"district": "Rajsamand",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Ram Meena",
+					"role": "Wire Saw helper",
+					"sex": "Male",
+					"age": 32
+				}
+			],
+			"description": "While a tractor was being driven down along a steep haul road... the brakes of the tractor failed, tractor ran down uncontrolled and collided with a compressor... which in turn hit two persons sitting behind it... One of them... got entangled with the sting of the wire saw machine... and received serious bodily injury to which he succumbed after Five (5) days...",
+			"avertable_factors": "Had i) the gradient of the ramp not been steeper than 1 in 10... ii) the brakes of the tractor been maintained properly... iii) the operator driven the tractor defensibly... this accident could have been averted."
+		},
+		{
+			"accident_number": 25,
+			"cause_code": "0449",
+			"cause_category": "Machinery Other than Transp. Machinery",
+			"cause_specific": "Other Non-Transportation Machinery",
+			"date": "25/02/15",
+			"time": "9.30",
+			"mine_name": "BILLI MARKUNDI STONE (AS 4601, 2, 3, 6, 8, 9)",
+			"owner": "M/S B. AGRAWAL STONE PRODUCTS LIMITED",
+			"location": {
+				"district": "Sonebhadra",
+				"state": "Uttar Pradesh"
+			},
+			"victims": [
+				{
+					"name": "Anita Kumari",
+					"role": "Labour",
+					"sex": "Female",
+					"age": 22
+				}
+			],
+			"description": "While one female contractual worker was standing near a tractor compressor... her scarf/duppata got entangled in the moving belt-drive of the compressor, strangulating her and inflicting serious injuries to her neck to which she succumbed within half an hour...",
+			"avertable_factors": "Had i) the moving parts/belt-drive of the tractor-compressor been adequately fenced... and none wearing loose clothes been allowed in close proximity... and, ii) the mine, in absence of the manager, been placed under the charge of a duly qualified person... or working of the mine been kept suspended... this accident could have been averted."
+		},
+		{
+			"accident_number": 26,
+			"cause_code": "0449",
+			"cause_category": "Machinery Other than Transp. Machinery",
+			"cause_specific": "Other Non-Transportation Machinery",
+			"date": "25/06/15",
+			"time": "9.15",
+			"mine_name": "BILLI MARKUNDI STONE MINE (A. NO. 7407)",
+			"owner": "ASHOK KUMAR MISHRA",
+			"location": {
+				"district": "Sonebhadra",
+				"state": "Uttar Pradesh"
+			},
+			"victims": [
+				{
+					"name": "Nisha Kumari",
+					"role": "Cont. Labour",
+					"sex": "Female",
+					"age": 19
+				}
+			],
+			"description": "While a female contractual worker was hurriedly running past a tractor-compressor... her scarf/dupatta got entangled in the moving belt-drive of the compressor, strangulating her and severing her head from her body to which she succumbed almost instanteneously.",
+			"avertable_factors": "Had the moving parts/belt-drive of the tractor-compressor been adequately fenced... and none wearing loose clothes been allowed in close proximity... as required by the provisions of Regulation 174 (2) & (5) of the Metalliferous Mines Regulations, 1961, this accident could have been averted."
+		},
+		{
+			"accident_number": 27,
+			"cause_code": "0665",
+			"cause_category": "Electricity",
+			"cause_specific": "Power Cables Other Than Trailing Cables",
+			"date": "05/10/15",
+			"time": "12.30",
+			"mine_name": "JHANJHAR MARBLE MINE M/L NO. 26/11",
+			"owner": "SHRI HEERALAL TELI",
+			"location": {
+				"district": "Rajsamand",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Ramlal Meena",
+					"role": "Mine Mazdoor",
+					"sex": "Male",
+					"age": 29
+				}
+			],
+			"description": "While a Mine Mazdoor attempting to repair the live jointed cable connected to the 3 HP mono block pump motor, received electric shock and succumbed to his injuries in the hospital after half an hour,",
+			"avertable_factors": "Had non designated person not been deployed and adequate work permit procedure for disconnection of power supply been followed as required under provision of Reg. 3 (1) read with Reg. 19 (3) & Reg. 19 (1) of Central Electricity Authority (Measures relating to safety and electric supply) Regulations, 2010, this accident could have been averted."
+		},
+		{
+			"accident_number": 28,
+			"cause_code": "0665",
+			"cause_category": "Electricity",
+			"cause_specific": "Power Cables Other Than Trailing Cables",
+			"date": "29/11/15",
+			"time": "18.15",
+			"mine_name": "MIDWEST GRANITE MINE",
+			"owner": "MIDWEST GRANITE PVT. LTD.",
+			"location": {
+				"district": "Prakasham",
+				"state": "Andhra Pradesh"
+			},
+			"victims": [
+				{
+					"name": "Hemanth Choudhary",
+					"role": "Wire-saw Helper",
+					"sex": "Male",
+					"age": 19
+				}
+			],
+			"description": "While a person was priming 5HP pump in a quarry bed... he received electric shock due to defective cable lying in water which proved fatal on the way to hospital.",
+			"avertable_factors": "Had the cable been used in good condition... the installation of apparatus re-erected in the mine examined and tested... and: the electrical equipment been placed at proper safe place... this accident could have been averted."
+		},
+		{
+			"accident_number": 29,
+			"cause_code": "0776",
+			"cause_category": "Dust, Gas & Other Combustible Material",
+			"cause_specific": "Well Blowout (With Fire)",
+			"date": "18/04/15",
+			"time": "22.30",
+			"mine_name": "ANKLESWAR PROJECT OIL MINE",
+			"owner": "OIL & NATURAL GAS CORPORATION LTD.",
+			"location": {
+				"district": "Bharuch",
+				"state": "Gujarat"
+			},
+			"victims": [
+				{
+					"name": "Shivaram Kalgude",
+					"role": "Contract crane opt",
+					"sex": "Male",
+					"age": 51
+				},
+				{
+					"name": "Manhar Vankar",
+					"role": "cont.crane oprt.",
+					"sex": "Male",
+					"age": 37
+				}
+			],
+			"description": "While Pulling out operation... in a Work over Gas well... suddenly, blow out occurred and caught fire after two days, during lifting of CAT walk... with... a 24 Volts battery started diesel operated 40 Tonnes hydraulic crane... in which 12 persons sustained burn injuries and two of them succumbed... after 10 days.",
+			"avertable_factors": "Had i) Hydrostatic pressure of the fluid column (brine) overbalanced the formation pressure... ii) Proper Blowout preventer assembly been securely installed... and iii) 24 Volts battery started diesel operated 40 Tonnes capacity Hydraulic Crane not deployed within 500m of the Well... this accident could have been averted."
+		},
+		{
+			"accident_number": 30,
+			"cause_code": "0881",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Person from Height/into Depth",
+			"date": "03/01/15",
+			"time": "8.30",
+			"mine_name": "BILLI MARKUNDI STONE MINE (S. N. 7402KA, 740)",
+			"owner": "SHRI RAM NARESH",
+			"location": {
+				"district": "Sonebhadra",
+				"state": "Uttar Pradesh"
+			},
+			"victims": [
+				{
+					"name": "Ram Govind",
+					"role": "Mine Worker",
+					"sex": "Male",
+					"age": 23
+				}
+			],
+			"description": "While, three persons were employed for drilling on a ledge at a height of about 12.5m on a 29.7m high and near vertical side of a stone quarry, one worker slipped and fell down... and received serious bodily injuries, to which he succumbed whilst on way to the hospital.",
+			"avertable_factors": "Had i) the sides of the opencast workings been kept benched, sloped and secured... ii) a duly qualified manager been appointed... and iii) persons not been allowed to work at any place/ledge from where they are likely to... fall more than 1.8m, unless they were secured by a safety belt... this accident could have been averted."
+		},
+		{
+			"accident_number": 31,
+			"cause_code": "0881",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Person from Height/into Depth",
+			"date": "30/03/15",
+			"time": "11.00",
+			"mine_name": "DHELANA SERPENTINE MINE",
+			"owner": "M/S EVERGREEN MARBLE",
+			"location": {
+				"district": "Udaipur",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Kailash Meena",
+					"role": "General Mazdoor",
+					"sex": "Male",
+					"age": 44
+				}
+			],
+			"description": "While a worker was engaged in drilling... the drill rod was subjected to severe vibration... resulting his imbalance and as he was standing on the edge of the floor... he fell down... from a height of approx. 4m, which inflicted fatal injury to him.",
+			"avertable_factors": "i) the person used the safety belt provided by the management... an act done negligently... ii) it been ensured that all the persons are using protective equipments including safety belt... This accident could have been averted"
+		},
+		{
+			"accident_number": 32,
+			"cause_code": "0881",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Person from Height/into Depth",
+			"date": "16/04/15",
+			"time": "13.00",
+			"mine_name": "UMRAYA MARBLE MINE",
+			"owner": "M/S VIKASH BALAJI MARMO PVT. LTD",
+			"location": {
+				"district": "Rajsamand",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Pintu Gupta",
+					"role": "Driller",
+					"sex": "Male",
+					"age": 38
+				}
+			],
+			"description": "While a worker was engaged in observing the drilling area... he slipped... and he fell down... from a height of approx. 6m, receiving serious injuries in the head to which he succumbed after 14 hours...",
+			"avertable_factors": "Had i) the person used the safety belt provided by the management... ii) the manager of the mine ensured that all the persons are using protective equipments including safety belt... this accident could have been averted."
+		},
+		{
+			"accident_number": 33,
+			"cause_code": "0881",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Person from Height/into Depth",
+			"date": "23/04/15",
+			"time": "15.00",
+			"mine_name": "NIZARNA MARBLE MINE (ML. NO. 59/08)",
+			"owner": "M/S PARSAWNATH MARBLE",
+			"location": {
+				"district": "Rajsamand",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Ramlal",
+					"role": "General Mazdoor",
+					"sex": "Male",
+					"age": 26
+				}
+			],
+			"description": "While a worker was engaged in placement of air bag... he slipped... and he fell down... from a height of approx. 6m, receiving serious injuries in the head to which he succumbed on the way to hospital.",
+			"avertable_factors": "Had i) the Owner of the mine ensured that all the persons have been provided protective equipments including safety belt... ii) a qualified manager appointed in the mine... this accident could have been averted."
+		},
+		{
+			"accident_number": 34,
+			"cause_code": "0881",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Person from Height/into Depth",
+			"date": "22/05/15",
+			"time": "12.00",
+			"mine_name": "SETHURAYANPUDUR LIMESTONE MINE",
+			"owner": "K. KRISHNAMOORTHY",
+			"location": {
+				"district": "Tirunelveli",
+				"state": "Tamil nadu"
+			},
+			"victims": [
+				{
+					"name": "G. Ratish",
+					"role": "General Mazdoor",
+					"sex": "Male",
+					"age": 38
+				}
+			],
+			"description": "While a person was cleaning the loose boulders at the edge of the bench... his leg slipped and fell down from a height of about 30m and got serious bodily injuries to which he succumbed later.",
+			"avertable_factors": "Had i) proper safety appliances such as safety belt, lifeline, guard rails etc. been provided... ii) a duly qualified manager been appointed... this accident could have been averted."
+		},
+		{
+			"accident_number": 35,
+			"cause_code": "0881",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Person from Height/into Depth",
+			"date": "07/07/15",
+			"time": "12.15",
+			"mine_name": "AGARIA MARBLE MINE (M. L. 36/09)",
+			"owner": "M/S CHANDRESH MAHESHWARI",
+			"location": {
+				"district": "Rajsamand",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Chogga Kumawat",
+					"role": "General Mazdoor",
+					"sex": "Male",
+					"age": 50
+				}
+			],
+			"description": "While one mazdoor was traveling on a slippery surface near the edge of a bench, suddenly he got unbalanced and fell down to the bottom of the quarry from a height of about 4.0m... Later he succumbed to his injuries in the hospital.",
+			"avertable_factors": "Had he not traveled over the slippery surface near the edge of the marble bench thus negligently endangering his life as required under the provision of Regulation 41 (1) (a) & 181 of the Metalliferous Mines Regulations, 1961. this accident could have been averted."
+		},
+		{
+			"accident_number": 36,
+			"cause_code": "0881",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Person from Height/into Depth",
+			"date": "27/08/15",
+			"time": "9.15",
+			"mine_name": "BILLI MARKUNDI STONE MINE (S. N. 7536)",
+			"owner": "SHRI ASHOK KUMAR SINGH",
+			"location": {
+				"district": "Sonebhadra",
+				"state": "Uttar Pradesh"
+			},
+			"victims": [
+				{
+					"name": "Sinod Baiga",
+					"role": "Mine Worker",
+					"sex": "Male",
+					"age": 20
+				}
+			],
+			"description": "While, eight worker were working on a ledge at a height of about 47.5m... two workers slipped and fell down... One person received serious bodily injuries, to which he succumbed whilst on way to the hospital...",
+			"avertable_factors": "Had i) the sides of the opencast workings been kept benched, sloped and secured... ii) Persons not been allowed to work at any place/ledge from where they are likely to... fall more than 1.8m, unless they were secured by a safety belt... and, iii) the mine been placed under the charge of a duly qualified manager... this accident would have been averted."
+		},
+		{
+			"accident_number": 37,
+			"cause_code": "0881",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Person from Height/into Depth",
+			"date": "31/08/15",
+			"time": "11.00",
+			"mine_name": "SRI LAKSHMI BALAJI STONE QUARRY",
+			"owner": "M/S SRI LAKSHMI BALAJI STOE CRUSHERS",
+			"location": {
+				"district": "Guntur",
+				"state": "Andhra Pradesh"
+			},
+			"victims": [
+				{
+					"name": "Soura Nandu",
+					"role": "Driller",
+					"sex": "Male",
+					"age": 25
+				},
+				{
+					"name": "Mudili Buttu",
+					"role": "Driller",
+					"sex": "Male",
+					"age": 23
+				}
+			],
+			"description": "While two workmen were drilling holes at the top bench... suddenly the drill rod of the jack hammer broke and both of them got overbalanced and fell from a height of about 45m... and got grievously injured to which they succumbed almost instantly.",
+			"avertable_factors": "Had the sides of the working been kept properly benched and the workmen not permitted to work at the narrow bench at height unless being secured by a safety-belt or life line... and the operations... kept under the statutory supervision of a dully qualified manager... this accident could have been averted."
+		},
+		{
+			"accident_number": 38,
+			"cause_code": "0881",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Person from Height/into Depth",
+			"date": "18/12/15",
+			"time": "12.05",
+			"mine_name": "GELEKI PRODUCTION OIL MINE",
+			"owner": "OIL & NATURAL GAS CORPORATION LTD.",
+			"location": {
+				"district": "Sibsagar",
+				"state": "Assam"
+			},
+			"victims": [
+				{
+					"name": "Kanak Hatimuria",
+					"role": "Scrapper Mazdoor",
+					"sex": "Male",
+					"age": 40
+				}
+			],
+			"description": "While wax scrapping operation... was being done by a contractual worker, he lost balance and fell down from a height of 3.5m over a 2\" iron gas pipe to which he sustained serious bodily injuries which proved fatal within 25 minutes.",
+			"avertable_factors": "Had i) the wax scrapping operation been done carefully... ii) the use of personal protective equipment been ensured... this accident could have been averted."
+		},
+		{
+			"accident_number": 39,
+			"cause_code": "0883",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Objects incl. Rolling Objects",
+			"date": "10/03/15",
+			"time": "17.30",
+			"mine_name": "ASAHI INDIA GLASS LTD. (ML NO. 14/06)",
+			"owner": "M/S ASAHI INDIA GLASS LIMITED",
+			"location": {
+				"district": "Karauli",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Muniram Meena",
+					"role": "Worker",
+					"sex": "Male",
+					"age": 21
+				}
+			],
+			"description": "While an excavator operator was pushing ROM silica sand minerals into the hopper... the front wall of the hopper... collapsed and the stone boulder pieces of the said collapsed wall hit and covered a worker... who was recovered dead after about half an hour.",
+			"avertable_factors": "Had the excavator been operated in proper and safe manner and the ROM mineral was not pushed hard against the front wall of the hopper... in contravention of Regulation 41 (1) (a) read with Regulation 181 of the Metalliferous Mines Regulations, 1961, this accident could have been averted."
+		},
+		{
+			"accident_number": 40,
+			"cause_code": "0883",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Objects incl. Rolling Objects",
+			"date": "16/08/15",
+			"time": "8.45",
+			"mine_name": "TRIPURA DRILLING MINE",
+			"owner": "OIL & NATURAL GAS CORPORATION LTD.",
+			"location": {
+				"district": "West Tripura",
+				"state": "Tripura"
+			},
+			"victims": [
+				{
+					"name": "Deb Das Chkraborty",
+					"role": "Dy. S. Engineer",
+					"sex": "Male",
+					"age": 58
+				}
+			],
+			"description": "While a crew... was breaking off a drill pipe stand... the diving board extension weighing about 81 kgs fell down on derrick floor from a height of 26m, thus inflicting serious injuries to a person on head and body, to which he succumbed after nine days...",
+			"avertable_factors": "Had i) the downward movement of travelling block been done cautiously considering swing to avert its hitting to the diving board extension... and ii) Proper precautions been taken to avoid the contact between the travelling block and diving board extension... this accident could have been averted."
+		},
+		{
+			"accident_number": 41,
+			"cause_code": "0883",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Objects incl. Rolling Objects",
+			"date": "31/10/15",
+			"time": "2.00",
+			"mine_name": "Thoria Marble Mine",
+			"owner": "Shri Govind Singh Sarangdeot",
+			"location": {
+				"district": "Rajsamand",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Satish Meena",
+					"role": "Mazdoor",
+					"sex": "Male",
+					"age": 30
+				}
+			],
+			"description": "While an already cut marble block was being toppled with the help of an excavator bucket... a part of marble block... detached... and fell down... over the cabin of the excavator causing serious bodily injuries to excavator operator to which he succumbed instantaneously.",
+			"avertable_factors": "Had i) the already cut marble block not been toppled, with the help of the excavator bucket, placing excavator near the bottom of the bench... and ii) mine not been worked without appointing a duly qualified manager... this accident could have been averted."
+		},
+		{
+			"accident_number": 42,
+			"cause_code": "0883",
+			"cause_category": "Falls (Other than Fall of Ground)",
+			"cause_specific": "Fall of Objects incl. Rolling Objects",
+			"date": "08/12/15",
+			"time": "11.51",
+			"mine_name": "SOHAGPUR WEST, EAST & SONHAT CBM WELLS",
+			"owner": "M/S RELIANCE INDUSTRIES LIMITED",
+			"location": {
+				"district": "Shahdol",
+				"state": "Madhya Pradesh"
+			},
+			"victims": [
+				{
+					"name": "Ramprasad Kushwaha",
+					"role": "Contract helper",
+					"sex": "Male",
+					"age": 55
+				}
+			],
+			"description": "While a contractor worker... was standing near the sand filled transition pit... one of the longer random rubble masonry walls of the pit had collapsed suddenly, trapping him in the debris and inflicting serious bodily injuries, which proved fatal instantaneously.",
+			"avertable_factors": "Had the transition pit of adequate strength and quality been constructed without altering the approved engineering design parameters... as required under Regulation 98 of the Oil Mines Regultions, 1984: this accident could have been averted."
+		},
+		{
+			"accident_number": 43,
+			"cause_code": "0992",
+			"cause_category": "Other Causes",
+			"cause_specific": "Flying Pieces(Except due to Explosives)",
+			"date": "13/02/15",
+			"time": "16.45",
+			"mine_name": "BALAKUNDI PINK GRANITE MINE",
+			"owner": "BHARAT TIMBER & CONSTRUCTION CO. LTD.",
+			"location": {
+				"district": "Bagalkot",
+				"state": "Karnataka"
+			},
+			"victims": [
+				{
+					"name": "Muttappa",
+					"role": "Helper",
+					"sex": "Male",
+					"age": 34
+				}
+			],
+			"description": "While two persons were cleaning at pit bottom... near a block being separated by Expansive Mortar... a piece of stone... fell on them from a height of about 6m inflicting serious bodily injuries to one of them which proved fatal after four days.",
+			"avertable_factors": "Had i) every official and competent person understood and carried out their duties... ii) a system been established that while separating a block by using Expansive Mortar... manual cleaning and cleaning by excavator not been carried out... & iii) it been ensured that the persons carried out their respective duties in a proper manner... this accident could have been averted."
+		},
+		{
+			"accident_number": 44,
+			"cause_code": "0992",
+			"cause_category": "Other Causes",
+			"cause_specific": "Flying Pieces(Except due to Explosives)",
+			"date": "14/07/15",
+			"time": "17.00",
+			"mine_name": "MASARO KI OBERI SERPENTINE MINE",
+			"owner": "M/S NARAYAN MARBLE",
+			"location": {
+				"district": "Udaipur",
+				"state": "Rajasthan"
+			},
+			"victims": [
+				{
+					"name": "Sohanlal Meena",
+					"role": "Worker",
+					"sex": "Male",
+					"age": 34
+				}
+			],
+			"description": "While two workers were working on the quarry floor... all of a sudden a huge block of rock mass... fell... and broken into pieces, as a result, a rebounding rock mass of approx. 5kg hit a worker approx. 50m distant from the site of fall inflicting fatal injury to the worker.",
+			"avertable_factors": "Had it been ensured that sides are adequately benched, sloped and secured so as to prevent danger from fall of sides as required under the provisions of Regulation 106 (3) of the Metalliferous Mines Regulations, 1961. this accident could have been averted."
+		},
+		{
+			"accident_number": 45,
+			"cause_code": "0993",
+			"cause_category": "Other Causes",
+			"cause_specific": "Drowning in Water",
+			"date": "28/09/15",
+			"time": "9.30",
+			"mine_name": "CHANDRIKA GRANITE MINE",
+			"owner": "M/S CHANDRIKA GRANITES",
+			"location": {
+				"district": "Prakasham",
+				"state": "Andhra Pradesh"
+			},
+			"victims": [
+				{
+					"name": "A. Raju",
+					"role": "General Mazdoor",
+					"sex": "Male",
+					"age": 35
+				}
+			],
+			"description": "While a workmen was standing at the edge of the submerged bench... for rectification of pump foot-valve, he suddenly slipped and fell down into water and drowned.",
+			"avertable_factors": "Had due precautions been taken by the supervisory staff and the workmen was not permitted to work in the vicinity of the water without using lifeline etc. as required under Reg. 47 (1) (b), Reg. 114, Reg. 181 of the Metalliferous Mines Regulation 1961, this accident could have been averted."
+		}
+	],
+	"major_accidents_1901_2015": [
+		{
+			"sl_no": 1,
+			"date": "02/02/01",
+			"mine_name": "A. Subha Naidy & Co. Mica",
+			"killed": 9,
+			"seriously_injured": 0,
+			"cause": "Fall of Roof"
+		},
+		{
+			"sl_no": 2,
+			"date": "11/04/02",
+			"mine_name": "Redhill Ruby",
+			"killed": 5,
+			"seriously_injured": 4,
+			"cause": "Fall of Roof"
+		},
+		{
+			"sl_no": 3,
+			"date": "26/09/04",
+			"mine_name": "Hannumanoya/41B Mica",
+			"killed": 7,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 4,
+			"date": "29/12/06",
+			"mine_name": "Salayakhad Mica",
+			"killed": 4,
+			"seriously_injured": 2,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 5,
+			"date": "24/01/07",
+			"mine_name": "Chirki Mica",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 6,
+			"date": "10/02/08",
+			"mine_name": "Murwara Limestone",
+			"killed": 7,
+			"seriously_injured": 2,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 7,
+			"date": "06/12/10",
+			"mine_name": "Shivrajpur Manganese",
+			"killed": 12,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 8,
+			"date": "26/04/11",
+			"mine_name": "Charki Mica",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 9,
+			"date": "04/06/12",
+			"mine_name": "Make Myebya Wolfrom",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 10,
+			"date": "21/10/13",
+			"mine_name": "North Anantapur Gold",
+			"killed": 7,
+			"seriously_injured": 0,
+			"cause": "Fall of Roof"
+		},
+		{
+			"sl_no": 11,
+			"date": "24/07/14",
+			"mine_name": "Maya Salt",
+			"killed": 5,
+			"seriously_injured": 2,
+			"cause": "Explosives"
+		},
+		{
+			"sl_no": 12,
+			"date": "05/11/14",
+			"mine_name": "Tadaiya Mica",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Irruption of Water"
+		},
+		{
+			"sl_no": 13,
+			"date": "12/08/16",
+			"mine_name": "Wazunchaung Wolfram",
+			"killed": 9,
+			"seriously_injured": 0,
+			"cause": "Miscellaneous on Surface"
+		},
+		{
+			"sl_no": 14,
+			"date": "13/05/19",
+			"mine_name": "Aulajhari Manganese",
+			"killed": 4,
+			"seriously_injured": 2,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 15,
+			"date": "28/01/20",
+			"mine_name": "Hsaikho (Mile 28.6) Limestone",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 16,
+			"date": "13/09/20",
+			"mine_name": "Bhalua Mica",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Suffocation by Gases"
+		},
+		{
+			"sl_no": 17,
+			"date": "18/09/20",
+			"mine_name": "Badwin Lead-Silver",
+			"killed": 11,
+			"seriously_injured": 0,
+			"cause": "In Shaft Ascending/Descending"
+		},
+		{
+			"sl_no": 18,
+			"date": "19/02/23",
+			"mine_name": "Bawdwin Silver-Lead-Zinc",
+			"killed": 6,
+			"seriously_injured": 1,
+			"cause": "In Shaft Ascending/Descending"
+		},
+		{
+			"sl_no": 19,
+			"date": "20/02/23",
+			"mine_name": "Cherangcode Mica",
+			"killed": 7,
+			"seriously_injured": 1,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 20,
+			"date": "01/03/27",
+			"mine_name": "Telewadi Manganese",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 21,
+			"date": "26/05/27",
+			"mine_name": "Bawdwin Silver-Lead",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Suffocation by Gases"
+		},
+		{
+			"sl_no": 22,
+			"date": "10/09/27",
+			"mine_name": "Tarki Limestone",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 23,
+			"date": "12/10/27",
+			"mine_name": "Kyauktalone Limestone",
+			"killed": 9,
+			"seriously_injured": 18,
+			"cause": "Explosives"
+		},
+		{
+			"sl_no": 24,
+			"date": "16/05/29",
+			"mine_name": "Bawdwin Silver-Lead-Zinc",
+			"killed": 10,
+			"seriously_injured": 0,
+			"cause": "Fall of Roof"
+		},
+		{
+			"sl_no": 25,
+			"date": "06/01/31",
+			"mine_name": "Kanbank Tin and Wolfram",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 26,
+			"date": "14/09/31",
+			"mine_name": "Taungpila Tin",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 27,
+			"date": "12/04/32",
+			"mine_name": "Lady Rangi Mica",
+			"killed": 19,
+			"seriously_injured": 0,
+			"cause": "Suffocation by Gases"
+		},
+		{
+			"sl_no": 28,
+			"date": "24/08/36",
+			"mine_name": "Wagon North Tin & Wolfram",
+			"killed": 7,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 29,
+			"date": "26/02/37",
+			"mine_name": "Salaiya Pahari Limestone",
+			"killed": 9,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 30,
+			"date": "22/12/38",
+			"mine_name": "Matauni Mica",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 31,
+			"date": "05/10/40",
+			"mine_name": "Porcupine Steatite",
+			"killed": 4,
+			"seriously_injured": 2,
+			"cause": "Fall of Roof"
+		},
+		{
+			"sl_no": 32,
+			"date": "15/07/43",
+			"mine_name": "Tatahwa Mica",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Falling Down Shaft"
+		},
+		{
+			"sl_no": 33,
+			"date": "07/11/45",
+			"mine_name": "Noamundi Iron",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 34,
+			"date": "13/05/46",
+			"mine_name": "Kaza Limestone",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 35,
+			"date": "06/12/46",
+			"mine_name": "Pattabhirama & Margin Mica",
+			"killed": 8,
+			"seriously_injured": 0,
+			"cause": "Irruption of Water"
+		},
+		{
+			"sl_no": 36,
+			"date": "21/01/49",
+			"mine_name": "Kharonia Mica",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Explosives"
+		},
+		{
+			"sl_no": 37,
+			"date": "08/07/50",
+			"mine_name": "Basorhai Diamonds",
+			"killed": 6,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 38,
+			"date": "14/06/51",
+			"mine_name": "Mysore Gold",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Rock Burst"
+		},
+		{
+			"sl_no": 39,
+			"date": "11/10/51",
+			"mine_name": "Oorgaum Gold",
+			"killed": 9,
+			"seriously_injured": 9,
+			"cause": "Rock Burst"
+		},
+		{
+			"sl_no": 40,
+			"date": "02/11/51",
+			"mine_name": "Champion Reef Gold",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Rock Burst"
+		},
+		{
+			"sl_no": 41,
+			"date": "19/04/52",
+			"mine_name": "Champion Reef Gold",
+			"killed": 20,
+			"seriously_injured": 4,
+			"cause": "Rock Burst"
+		},
+		{
+			"sl_no": 42,
+			"date": "30/06/52",
+			"mine_name": "Champion Reef Gold",
+			"killed": 10,
+			"seriously_injured": 5,
+			"cause": "Rock Burst"
+		},
+		{
+			"sl_no": 43,
+			"date": "01/05/53",
+			"mine_name": "Lanjhera Manganese",
+			"killed": 5,
+			"seriously_injured": 2,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 44,
+			"date": "21/06/54",
+			"mine_name": "Kachhidhana Manganese",
+			"killed": 5,
+			"seriously_injured": 1,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 45,
+			"date": "30/11/54",
+			"mine_name": "Mysore Gold",
+			"killed": 4,
+			"seriously_injured": 1,
+			"cause": "Rock Burst"
+		},
+		{
+			"sl_no": 46,
+			"date": "23/12/54",
+			"mine_name": "Venkaji gudda (Vajra) Manganese",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 47,
+			"date": "27/05/55",
+			"mine_name": "Champion Reef Gold",
+			"killed": 10,
+			"seriously_injured": 8,
+			"cause": "Rock Burst"
+		},
+		{
+			"sl_no": 48,
+			"date": "21/04/56",
+			"mine_name": "Yeshwantanagar Manganese",
+			"killed": 5,
+			"seriously_injured": 1,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 49,
+			"date": "18/08/56",
+			"mine_name": "Tikuri Bauxite",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 50,
+			"date": "22/01/57",
+			"mine_name": "Madadakere Manganese",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 51,
+			"date": "29/09/57",
+			"mine_name": "Rajupalem Barytes",
+			"killed": 11,
+			"seriously_injured": 2,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 52,
+			"date": "19/02/58",
+			"mine_name": "Aytemvalasa Manganese",
+			"killed": 7,
+			"seriously_injured": 3,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 53,
+			"date": "12/05/59",
+			"mine_name": "Siddimella Steatite",
+			"killed": 8,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 54,
+			"date": "14/05/59",
+			"mine_name": "Serima White Earth",
+			"killed": 4,
+			"seriously_injured": 2,
+			"cause": "Fall of Roof"
+		},
+		{
+			"sl_no": 55,
+			"date": "26/06/61",
+			"mine_name": "Gua Iron",
+			"killed": 4,
+			"seriously_injured": 1,
+			"cause": "Explosives"
+		},
+		{
+			"sl_no": 56,
+			"date": "24/03/62",
+			"mine_name": "Champion Reef Gold",
+			"killed": 4,
+			"seriously_injured": 4,
+			"cause": "Rock Burst"
+		},
+		{
+			"sl_no": 57,
+			"date": "01/06/63",
+			"mine_name": "Junawani Manganese",
+			"killed": 5,
+			"seriously_injured": 2,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 58,
+			"date": "13/08/63",
+			"mine_name": "Nundydroog Gold",
+			"killed": 5,
+			"seriously_injured": 2,
+			"cause": "Rock Burst"
+		},
+		{
+			"sl_no": 59,
+			"date": "16/02/64",
+			"mine_name": "Sonnedenhalli Iron",
+			"killed": 4,
+			"seriously_injured": 1,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 60,
+			"date": "13/10/64",
+			"mine_name": "Patnibona (Bakudih) Stone",
+			"killed": 6,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 61,
+			"date": "06/02/66",
+			"mine_name": "Mysore Gold",
+			"killed": 7,
+			"seriously_injured": 0,
+			"cause": "Overwinding"
+		},
+		{
+			"sl_no": 62,
+			"date": "02/08/66",
+			"mine_name": "Borgafall Iron",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Explosives"
+		},
+		{
+			"sl_no": 63,
+			"date": "25/12/66",
+			"mine_name": "Venkateshwara Beryl & Mica",
+			"killed": 6,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 64,
+			"date": "06/06/68",
+			"mine_name": "Sarvodaya Stone",
+			"killed": 7,
+			"seriously_injured": 0,
+			"cause": "Explosives"
+		},
+		{
+			"sl_no": 65,
+			"date": "19/11/69",
+			"mine_name": "Morija Iron",
+			"killed": 4,
+			"seriously_injured": 3,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 66,
+			"date": "14/10/70",
+			"mine_name": "Bhadrasai Manganese",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 67,
+			"date": "29/01/71",
+			"mine_name": "Bhatti Badarpur Stone",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 68,
+			"date": "20/06/72",
+			"mine_name": "Balawali Mica",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Roof"
+		},
+		{
+			"sl_no": 69,
+			"date": "22/08/78",
+			"mine_name": "Kukda Limestone",
+			"killed": 7,
+			"seriously_injured": 6,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 70,
+			"date": "10/05/80",
+			"mine_name": "Kalidungri Dolomite",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 71,
+			"date": "17/08/80",
+			"mine_name": "Bhatti Badarpur Stone",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 72,
+			"date": "08/09/83",
+			"mine_name": "Manoharpur Iron",
+			"killed": 4,
+			"seriously_injured": 1,
+			"cause": "Truck"
+		},
+		{
+			"sl_no": 73,
+			"date": "04/04/84",
+			"mine_name": "Surda Copper",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Nitrous Fumes"
+		},
+		{
+			"sl_no": 74,
+			"date": "30/05/84",
+			"mine_name": "Ahmedabad Oil Project",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fire"
+		},
+		{
+			"sl_no": 75,
+			"date": "22/02/86",
+			"mine_name": "Rekha Fluorspar",
+			"killed": 8,
+			"seriously_injured": 2,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 76,
+			"date": "15/11/88",
+			"mine_name": "Ankleshwar Oil Project",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Outbreak of Fire"
+		},
+		{
+			"sl_no": 77,
+			"date": "14/07/89",
+			"mine_name": "Nundydroog Gold",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Rock Burst"
+		},
+		{
+			"sl_no": 78,
+			"date": "30/05/90",
+			"mine_name": "Bhatti Badarpur Stone",
+			"killed": 7,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 79,
+			"date": "22/06/91",
+			"mine_name": "Bandu Basaria Limestone",
+			"killed": 6,
+			"seriously_injured": 1,
+			"cause": "Fall of Overhangs"
+		},
+		{
+			"sl_no": 80,
+			"date": "11/07/93",
+			"mine_name": "Pali Silica Sand",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 81,
+			"date": "25/10/93",
+			"mine_name": "Pokarna Granite",
+			"killed": 5,
+			"seriously_injured": 1,
+			"cause": "Explosives"
+		},
+		{
+			"sl_no": 82,
+			"date": "09/07/94",
+			"mine_name": "Maruthi Manganese",
+			"killed": 4,
+			"seriously_injured": 1,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 83,
+			"date": "28/08/94",
+			"mine_name": "Rajpura Dariba Galena & Sphal.",
+			"killed": 13,
+			"seriously_injured": 0,
+			"cause": "Irruption of Water"
+		},
+		{
+			"sl_no": 84,
+			"date": "16/02/95",
+			"mine_name": "Pali Silica Sand",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 85,
+			"date": "08/11/96",
+			"mine_name": "God Granite",
+			"killed": 4,
+			"seriously_injured": 6,
+			"cause": "Explosives"
+		},
+		{
+			"sl_no": 86,
+			"date": "17/04/99",
+			"mine_name": "Barkundi Soapstone No. 1",
+			"killed": 6,
+			"seriously_injured": 2,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 87,
+			"date": "21/04/01",
+			"mine_name": "Jogogoria Stone Mine",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Explosion/Ignition of Gas"
+		},
+		{
+			"sl_no": 88,
+			"date": "02/06/02",
+			"mine_name": "Borli Limestone Mine",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 89,
+			"date": "18/11/02",
+			"mine_name": "Devka Harmada Cheja Pathar Mine",
+			"killed": 5,
+			"seriously_injured": 2,
+			"cause": "Fall of Overhang"
+		},
+		{
+			"sl_no": 90,
+			"date": "11/03/06",
+			"mine_name": "Surya Granite Opencast Mine",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Object"
+		},
+		{
+			"sl_no": 91,
+			"date": "12/09/06",
+			"mine_name": "Tollem Group Iron Ore Mine",
+			"killed": 6,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 92,
+			"date": "10/07/07",
+			"mine_name": "Mandodi Limestone Mine",
+			"killed": 5,
+			"seriously_injured": 1,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 93,
+			"date": "12/05/08",
+			"mine_name": "SMS Infrastructure Ltd. Stone",
+			"killed": 9,
+			"seriously_injured": 20,
+			"cause": "Other explosive accident"
+		},
+		{
+			"sl_no": 94,
+			"date": "25/02/10",
+			"mine_name": "Hamsa Mineral Granite Mine",
+			"killed": 14,
+			"seriously_injured": 1,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 95,
+			"date": "26/03/10",
+			"mine_name": "Bharkundi No. 1 Soapstone Mine",
+			"killed": 8,
+			"seriously_injured": 0,
+			"cause": "Fall of Sides"
+		},
+		{
+			"sl_no": 96,
+			"date": "24/04/10",
+			"mine_name": "Prashant Mining Quartz & Felspar Mine",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Overhang"
+		},
+		{
+			"sl_no": 97,
+			"date": "27/08/10",
+			"mine_name": "Deokhera Garnet Mine",
+			"killed": 5,
+			"seriously_injured": 0,
+			"cause": "Fall of Overhang"
+		},
+		{
+			"sl_no": 98,
+			"date": "23/07/13",
+			"mine_name": "Granite Buid Stone Quarry SY 376/3-2",
+			"killed": 4,
+			"seriously_injured": 1,
+			"cause": "Fall of Overhang"
+		},
+		{
+			"sl_no": 99,
+			"date": "26/11/14",
+			"mine_name": "PIPALJORI STONE MINE",
+			"killed": 4,
+			"seriously_injured": 0,
+			"cause": "Fall of Slides"
+		}
+	],
+	"classification_codes": {
+		"cause_of_accident": {
+			"0111": "Fall of roof",
+			"0112": "Fall of sides (other than overhangs)",
+			"0113": "Fall of overhang",
+			"0114": "Rock burst/bumps",
+			"0115": "Air blast",
+			"0116": "Premature collapse of workings/pillars",
+			"0117": "Subsidence",
+			"0118": "Landslide",
+			"0119": "Collapse of shaft",
+			"0221": "Overwinding of cages/skip, etc. (upgoing)",
+			"0222": "Breakage of rope, chain, draw/suspn. gear",
+			"0223": "Falls of persons from cages, skip, etc.",
+			"0224": "Falling of objects from cages, skip, etc.",
+			"0225": "Hit by cages, skip, etc.",
+			"0228": "Overwinding of cages/skip (downgoing)",
+			"0229": "Other accident due to winding operation",
+			"0331": "Aerial ropeway",
+			"0332": "Rope haulage",
+			"0333": "Other rail transportation",
+			"0334": "Conveyors",
+			"0335": "Dumpers",
+			"0336": "Wagon movements",
+			"0339": "Wheeled trackless (truck, tanker, etc.)",
+			"0441": "Drilling machines",
+			"0442": "Cutting machines",
+			"0443": "Loading machines",
+			"0444": "Haulage engine",
+			"0445": "Winding engine",
+			"0446": "Shovel, dragline, frontend loader, etc.",
+			"0447": "Crushing & screening plants",
+			"0448": "Other heavy earth moving machinery",
+			"0449": "Other non-transportation machinery",
+			"0551": "Solid blasting projectiles",
+			"0552": "Deep hole blasting projectiles",
+			"0553": "Secondary blasting projectiles",
+			"0554": "Other projectiles",
+			"0555": "Misfires/sockets (while drilling into)",
+			"0556": "Misfire/socket (other than drilling into)",
+			"0557": "Delayed ignition",
+			"0558": "Blown through shots",
+			"0559": "Other explosive accident",
+			"0661": "Overhead lines",
+			"0662": "Trailing cables",
+			"0663": "Switch gears, gate end boxes, pommel, etc.",
+			"0664": "Energized machines",
+			"0665": "Power cables other than trailing cables",
+			"0669": "Other electrical accidents",
+			"0771": "Occurrence of gas",
+			"0772": "Influx of gas",
+			"0774": "Explosion/ignition of gas/dust, etc.",
+			"0775": "Outbreak of fire or spontaneous heating",
+			"0776": "Well blowout (with fire)",
+			"0777": "Well blowout (without fire)",
+			"0778": "Other combustible material",
+			"0779": "Other accidents due to dust/gas/fire",
+			"0881": "Fall of person from height/into depth",
+			"0882": "Fall of persons on the same level",
+			"0883": "Fall of objects incl. rolling objects",
+			"0889": "Other accident due to falls",
+			"0991": "Irruption of water",
+			"0992": "Flying pieces (except due to explosives)",
+			"0993": "Drowning in water",
+			"0994": "Buried in sands, etc.",
+			"0995": "Bursting/leakage of oil pipe lines",
+			"0999": "Unclassified"
+		},
+		"place_of_accident": {
+			"BELOW_GROUND": {
+				"Development_area": {
+					"111": "10m of development face",
+					"112": "10m and within working district"
+				},
+				"Long_wall_panel": {
+					"121": "10m of long wall face",
+					"122": "Gate roads in long wall panels"
+				},
+				"Depillaring_stoping": {
+					"131": "10m of face",
+					"132": "10m but < 30m",
+					"133": "30m but within working district"
+				},
+				"Outside_working_district": {
+					"141": "Traveling roadways",
+					"149": "Unclassified"
+				},
+				"Tramming_roadways": {
+					"151": "Within district",
+					"152": "Outside district"
+				},
+				"Haulage_roadways_within_district": {
+					"161": "Rope haulage roadways",
+					"162": "Conveyor roadways",
+					"163": "Loco roadways",
+					"169": "Unclassified"
+				},
+				"Haulage_roadways_outside_district": {
+					"171": "Rope haulage roadways",
+					"172": "Conveyor roadways",
+					"173": "Loco roadways",
+					"179": "Unclassified"
+				},
+				"Shaft": {
+					"180": "Shaft"
+				},
+				"Other_below_ground_places": {
+					"199": "Other below ground places"
+				}
+			},
+			"OPENCAST": {
+				"Benches": {
+					"211": "Waste/overburden alluvium",
+					"212": "Waste/overburden float",
+					"213": "Waste/overburden hard rock",
+					"214": "Coal/ore benches"
+				},
+				"Quarry_other_than_benches": {
+					"221": "Top of the quarry",
+					"222": "Bed of the quarry"
+				},
+				"Roads": {
+					"231": "Haul roads",
+					"232": "Rope haulage roads",
+					"239": "Other transportation roads"
+				},
+				"Other_open_cast_places": {
+					"241": "Waste dump",
+					"249": "Other places (specify)"
+				}
+			},
+			"ABOVE_GROUND": {
+				"Transportation_road_sites": {
+					"311": "Aerial ropeways",
+					"312": "Rope haulage roads",
+					"313": "Wheeled trackless transportation roads",
+					"314": "Railway lines belonging to mines",
+					"315": "Petroleum pipelines",
+					"319": "Unclassified"
+				},
+				"Plant_sites": {
+					"321": "Site of ore handling plants",
+					"322": "Workshop, powerhouse, engine room, etc.",
+					"323": "Erection/rigging site",
+					"324": "Gas col stn/gas comp stn/group gather.",
+					"325": "Oil wells/water inject wells",
+					"329": "Unclassified"
+				},
+				"Other_above_ground_places": {
+					"331": "Depot",
+					"332": "Waste dump",
+					"333": "Water reservoir",
+					"339": "Unclassified"
+				}
+			}
+		}
+	}
+}
